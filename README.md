@@ -1,6 +1,6 @@
 # 創造OS (Creative OS) 🚀
 
-[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://github.com/your-repo/creative-os)
+[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://github.com/ao495/creative-os)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **nostall開発から抽出された創造の理論体系**
