@@ -1,0 +1,42 @@
+[
+  {
+    "file_path": "nostall_logs\\conversations.json",
+    "file_name": "conversations.json",
+    "file_size": 42968787,
+    "processing_time": 634.1614737510681,
+    "success": true,
+    "error_message": null,
+    "essence_lines": 3980,
+    "interference_waves": 0,
+    "convergence_points": 0,
+    "gravity_wells": 5,
+    "map_nodes": 3985,
+    "rules": 4453,
+    "purpose_vectors": 1,
+    "valuable_waves": 0,
+    "formulas": 4,
+    "chain_links": 1,
+    "llm_summary": "本質的な構造が3980本の線として抽出されました。主要な本質線: 「| **Phase 1：Stop OS（判断OS）** | 「止まれるAI」設計 | 推論暴走防止・信頼性確保・自己観測 | Commander / Mini / Guard 構造<br>Stop-Wait-Proceed Gate<br>fail-close哲学 | `decision_logs`<br>`loop_monitor.py`<br>`heal_supervisor.py`<br>`guardrail_v2`<br>`rule_promotion_policy.yaml` | ✅ **完成・安定運用中** |」, 「| **Phase 3：I-XR（Inference X-Ray）** | 「AIの中を見る」 | 推論構造の非侵襲解析・限界診断 | 外部出力→内部挙動再構成<br>ブラックボックス透明化 | `debug_change_summary`<br>`change_history.jsonl`<br>`xr_visualizer_cli` (予定)<br>`inference_shape_analyzer` | 🔬 **v1 完了・v2 設計中** |」, 「| **Phase 5：研究／標準化ライン** | 「理論を資産化」 | I-XRや創造OSを論文化・標準化し、研究／機関連携へ | MAGMA / SleepFM / Epiplexity 統合<br>Rule Lifecycle Schema 公開 | `MAGMA_linker` (設計中)<br>`SleepFM_evaluator`<br>`rule_lifecycle.json` 体系 | 🧠 **構想段階／資料化中** |」 他3977本の線が存在します。\n0個の収束点が見つかりました。\n5個の重力井戸が形成されています。 特に強い重力を持つ井戸が5個あります。\n創造地図が生成されました。 3985個のノード、5604954本のエッジ、価値領域10個、ノイズ領域0個が存在します。\n4453個の本質ルールが抽出されました。 因果パターン: 0個、原理公式: 458個\n1個の目的ベクトルが定義されています。 現在の創造状態との整合度: 0.00\n価値のある干渉波が0個抽出されました。 ノイズレベル: 0.00, 価値比率: 0.00\n4個の本質式が生成されました。 主要な本質式: 価値 圧縮率: 0.88\n1本の意味連鎖が生成されました。 0本の連鎖パスが存在します。",
+    "confidence": 11.913832014331636
+  },
+  {
+    "file_path": "nostall_logs\\sora.json",
+    "file_name": "sora.json",
+    "file_size": 43,
+    "processing_time": 0.0013380050659179688,
+    "success": true,
+    "error_message": null,
+    "essence_lines": 0,
+    "interference_waves": 0,
+    "convergence_points": 0,
+    "gravity_wells": 0,
+    "map_nodes": 0,
+    "rules": 0,
+    "purpose_vectors": 1,
+    "valuable_waves": 0,
+    "formulas": 1,
+    "chain_links": 0,
+    "llm_summary": "本質的な構造が0本の線として抽出されました。主要な本質線: \n0個の収束点が見つかりました。\n0個の重力井戸が形成されています。\n創造地図が生成されました。 0個のノード、0本のエッジ、価値領域0個、ノイズ領域0個が存在します。\n0個の本質ルールが抽出されました。 因果パターン: 0個、原理公式: 0個\n1個の目的ベクトルが定義されています。 現在の創造状態との整合度: 0.00\n価値のある干渉波が0個抽出されました。 ノイズレベル: 0.00, 価値比率: 0.00\n1個の本質式が生成されました。 主要な本質式: 構造 圧縮率: 1.00\n0本の意味連鎖が生成されました。 0本の連鎖パスが存在します。",
+    "confidence": 0.012539682539682538
+  }
+]

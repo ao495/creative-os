@@ -1,0 +1,21 @@
+{
+  "total_files": 1,
+  "successful_files": 1,
+  "failed_files": 0,
+  "total_processing_time": 1.985651969909668,
+  "average_processing_time": 1.985651969909668,
+  "total_essence_lines": 44,
+  "total_interference_waves": 0,
+  "total_convergence_points": 0,
+  "total_gravity_wells": 5,
+  "total_map_nodes": 49,
+  "total_rules": 65,
+  "total_purpose_vectors": 1,
+  "total_valuable_waves": 0,
+  "total_formulas": 3,
+  "total_chain_links": 4,
+  "average_confidence": 0.5895728350385566,
+  "top_gravity_wells": [],
+  "top_formulas": [],
+  "top_chain_paths": []
+}

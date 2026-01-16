@@ -1,0 +1,22 @@
+[
+  {
+    "file_path": "nostall_logs\\README.md",
+    "file_name": "README.md",
+    "file_size": 479,
+    "processing_time": 0.0005729198455810547,
+    "success": true,
+    "error_message": null,
+    "essence_lines": 0,
+    "interference_waves": 0,
+    "convergence_points": 0,
+    "gravity_wells": 0,
+    "map_nodes": 0,
+    "rules": 0,
+    "purpose_vectors": 1,
+    "valuable_waves": 0,
+    "formulas": 1,
+    "chain_links": 0,
+    "llm_summary": "本質的な構造が0本の線として抽出されました。主要な本質線: \n0個の収束点が見つかりました。\n0個の重力井戸が形成されています。\n創造地図が生成されました。 0個のノード、0本のエッジ、価値領域0個、ノイズ領域0個が存在します。\n0個の本質ルールが抽出されました。 因果パターン: 0個、原理公式: 0個\n1個の目的ベクトルが定義されています。 現在の創造状態との整合度: 0.00\n価値のある干渉波が0個抽出されました。 ノイズレベル: 0.00, 価値比率: 0.00\n1個の本質式が生成されました。 主要な本質式: 構造 圧縮率: 1.00\n0本の意味連鎖が生成されました。 0本の連鎖パスが存在します。",
+    "confidence": 0.012539682539682538
+  }
+]
